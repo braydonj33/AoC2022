@@ -2,7 +2,7 @@ package main;
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
-public class calsNum {
+public class RPSPart2 {
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner stdin = new Scanner(System.in);
 		int score = 0;
