@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calsNum {
+public class calsNumPart1 {
 	public static void main(String[] args) {
 		Scanner stdin = new Scanner(System.in);
 		double mostNum = 0;
