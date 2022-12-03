@@ -1,6 +1,6 @@
 package main;
 import java.util.Scanner;
-public class calsNum {
+public class Day3Part1 {
 	public static void main(String[] args) {
 		Scanner stdin = new Scanner(System.in);
 		int priorityTotal = 0;
