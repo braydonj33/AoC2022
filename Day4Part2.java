@@ -2,7 +2,7 @@ package main;
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
-public class CalsNum {
+public class Day4Part2 {
 	public static void main(String[] args) throws FileNotFoundException {
 		Scanner stdin = new Scanner(new File("input.txt"));
 		int containCnt = 0;
